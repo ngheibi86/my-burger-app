@@ -1,7 +1,7 @@
 import React, {Component} from "react";
 import Toolbar from '../Navigation/Toolbar/Toolbar';
 
-import Aux from "../../hoc/Aux";
+import Aux from "../../hoc/Aux1";
 import classes from "./Layoutx.module.css";
 import SideDrawer from '../Navigation/SideDrawer/SideDrawer';
 
